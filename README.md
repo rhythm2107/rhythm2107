@@ -8,9 +8,12 @@ I'm a self-taught developer focused on building efficient, clean software with P
 
 ## 💼 My Tech Stack
 
-| Languages      | Web               | Tools               | Databases         | Other                   |
-|----------------|-------------------|---------------------|-------------------|--------------------------|
-| Python, JS     | React, Node.js    | Git, Docker         | PostgreSQL, Mongo | Solana, APIs, Scraping   |
+## 💼 My Tech Stack
+
+| 💻 Languages | ⚛️ Frontend | 🛠️ Backend     | 🐳 Tools     | 💾 Databases         | 🔗 Other               |
+|-------------|-------------|----------------|--------------|----------------------|------------------------|
+| Python, JS  | React       | Node.js, Express | Git, Docker | PostgreSQL, MongoDB | Solana, APIs, Scraping |
+
 
 💻 **Languages:** Python, JavaScript  ⚛️ **Frontend:** React  🛠️ **Backend:** Node.js, Express  
 🐳 **Tools:** Docker, Git  💾 **Databases:** PostgreSQL, MongoDB  🔗 **Other:** Solana, APIs
