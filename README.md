@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Kamil
 
-<!--
-**rhythm2107/rhythm2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer focused on building efficient, clean software with Python, JavaScript, and blockchain technologies.
 
-Here are some ideas to get you started:
+## 💼 My Tech Stack
+- **Languages**: Python, JavaScript
+- **Web**: React, Node.js, Express
+- **Tools**: Git, Docker, PostgreSQL, MongoDB
+- **Other**: Solana, Web scraping, APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+🔹 [Solana Arbitrage Bot](https://github.com/yourusername/solana-arbitrage-bot) – Test
+🔹 [Game Deals Tracker](https://github.com/yourusername/game-deals-tracker) – Test
+🔹 [Japanese SRS Tool](https://github.com/yourusername/srs-mockup) – Test
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Email](mailto:your@email.com)
