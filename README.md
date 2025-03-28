@@ -4,10 +4,6 @@ I'm a self-taught developer focused on building efficient, clean software with P
 
 ## 💼 My Tech Stack
 
-| 💻 Languages | ⚛️ Frontend | 🛠️ Backend     | 🐳 Tools     | 💾 Databases         | 🔗 Other               |
-|-------------|-------------|----------------|--------------|----------------------|------------------------|
-| Python, JS  | React       | Node.js, Express | Git, Docker | PostgreSQL, MongoDB | Solana, APIs, Scraping |
-
 | 💻 Languages | 🛠️ Backend               | 🐳 Tools & DevOps                  | 💾 Databases         | 🔗 Other                     |  CLOUD |
 |-------------|--------------------------|-----------------------------------|----------------------|------------------------------|----------------|
 | Python, JS | asyncio, FastAPI, Jinja2 | Git, Docker, Github Actions, Poetry ECR, EC2 | PostgreSQL, SQLite | APIs, Scraping, Solana |AWS (ECR, EC2)|
