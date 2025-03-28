@@ -14,6 +14,13 @@ I'm a self-taught developer focused on building efficient, clean software with P
 |-------------|-------------|----------------|--------------|----------------------|------------------------|
 | Python, JS  | React       | Node.js, Express | Git, Docker | PostgreSQL, MongoDB | Solana, APIs, Scraping |
 
+## 💼 My Tech Stack
+
+| 💻 Languages | 🛠️ Backend               | 🐳 Tools & DevOps                  | 💾 Databases         | 🔗 Other                     |
+|-------------|--------------------------|-----------------------------------|----------------------|------------------------------|
+| Python, JavaScript | FastAPI, Jinja2, asyncio | Git, Docker, Github Actions, Poetry ECR, EC2 | PostgreSQL, SQLite | APIs, Scraping, Solana |
+
+
 
 💻 **Languages:** Python, JavaScript  ⚛️ **Frontend:** React  🛠️ **Backend:** Node.js, Express  
 🐳 **Tools:** Docker, Git  💾 **Databases:** PostgreSQL, MongoDB  🔗 **Other:** Solana, APIs
