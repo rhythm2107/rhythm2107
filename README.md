@@ -8,8 +8,8 @@ I'm a self-taught developer focused on building efficient, clean software with P
 |-------------|-------------|----------------|--------------|----------------------|------------------------|
 | Python, JS  | React       | Node.js, Express | Git, Docker | PostgreSQL, MongoDB | Solana, APIs, Scraping |
 
-| 💻 Languages | 🛠️ Backend               | 🐳 Tools & DevOps                  | 💾 Databases         | 🔗 Other                     |
-|-------------|--------------------------|-----------------------------------|----------------------|------------------------------|
-| Python, JavaScript | FastAPI, Jinja2, asyncio | Git, Docker, Github Actions, Poetry ECR, EC2 | PostgreSQL, SQLite | APIs, Scraping, Solana |
+| 💻 Languages | 🛠️ Backend               | 🐳 Tools & DevOps                  | 💾 Databases         | 🔗 Other                     |  CLOUD |
+|-------------|--------------------------|-----------------------------------|----------------------|------------------------------|----------------|
+| Python, JS | asyncio, FastAPI, Jinja2 | Git, Docker, Github Actions, Poetry ECR, EC2 | PostgreSQL, SQLite | APIs, Scraping, Solana |AWS (ECR, EC2)|
 
 📌 Check out my pinned projects below to see what I’ve been building recently.
