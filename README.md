@@ -17,13 +17,4 @@ I currently work on Kubernetes operator development, Helm-based application depl
 | 🐳 Containers & Dev Tools | Docker, Git, Bash                                         |
 | 💾 Databases              | PostgreSQL, SQLite                                        |
 
-### 🔧 What I'm currently working with
-
-* Developing and maintaining Kubernetes operator functionality in Go
-* Building and extending reusable Helm charts
-* Debugging Kubernetes/OpenShift workloads and deployment issues
-* Working with resource sizing, autoscaling, and workload performance
-* Building automated validation and testing for Kubernetes manifests and policies
-* Exploring platform engineering, GitOps, infrastructure as code, and cloud-native architecture
-
 📌 Check out my pinned projects below for some of my previous Python projects and experiments.
